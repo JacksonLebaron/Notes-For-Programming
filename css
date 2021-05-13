@@ -200,3 +200,51 @@ git commit -m "<name of code file>"
 git push 
 
 
+COMMANDS USED IN CODE:
+
+PS C:\Users\rafap> ls
+
+PS C:\Users\rafap> cd .\OneDrive\
+PS C:\Users\rafap\OneDrive> ls
+
+PS C:\Users\rafap\OneDrive> mkdir (name of a new file.)
+
+PS C:\Users\rafap\OneDrive> cd Jack
+PS C:\Users\rafap\OneDrive\Jack> ls
+
+
+PS C:\Users\rafap\OneDrive\Jack\uu> cd ..  (cd .. is how you remove a selected file or code)
+PS C:\Users\rafap\OneDrive\Jack> cd ..
+
+PS C:\users\rafap> ls
+
+
+    Directory: C:\users\rafap
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         3/17/2021  12:20 PM                .config
+d-----          3/1/2021  11:15 AM                .vscode
+d-r---         4/26/2021   5:51 PM                3D Objects
+d-r---         4/26/2021   5:51 PM                Contacts
+d-----         3/30/2021   3:44 PM                Documents
+d-r---         5/11/2021   3:57 PM                Downloads
+d-r---         4/26/2021   5:51 PM                Favorites
+d-r---         4/26/2021   5:51 PM                Links
+d-r---         4/26/2021   5:51 PM                Music
+dar--l         5/13/2021   2:57 PM                OneDrive
+d-----          4/9/2021   3:07 PM                practica
+d-----          4/8/2021   4:34 PM                preyecto-final-react
+d-r---         4/26/2021   5:51 PM                Saved Games
+d-r---         4/26/2021   5:51 PM                Searches
+d-r---         4/26/2021   5:51 PM                Videos
+-a----         4/29/2021   2:04 PM             50 .gitconfig
+-a----          4/8/2021   4:34 PM             13 .npmrc
+-a----         5/13/2021  11:33 AM             58 README.md
+
+
+PS C:\users\rafap> cdOneDrive (the command code here is used to view the inside of a file)
+
+
+
