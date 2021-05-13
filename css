@@ -1,161 +1,5 @@
-/*Common Styles*/
-body {
-   margin:0px 
-}
-/* Common nav styles */
-.navigation-wrapper {
-height: 190px;
-background-color:#11122b;
-color: red;
-/* flexbox container */
-display: flex;
-justify-content: space-around;
-align-items: center;
-padding: 60px 100px 60px 100px;
-/*padding:100px;*/
-/*padding-top: 60px;
-padding-bottom:60px;
-padding-left: 100px;
-padding-right: 100px; */
 
-}
-
-
-
-
-
-
-.contact-hours-wrapper {
-    color:red;
-}
-
-.address-wrapper{
-    color:red;
-}
-
-/* .hours {
-    color:red;
-} */
-
-
-
-
-@media (max-width:615px) {
-    column: grid wrapper;
-    this is just a test boyo
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*Common Styles*/
-body {
-   margin:0px 
-   font-family: 'Anton', sans-serif;
-font-family: 'Roboto', sans-serif;
-
-/* font-family: 'Anton', sans-serif;
-font-family: 'DM Serif Display', serif;
-font-family: 'Roboto', sans-serif; */
-
-}
-/* Common nav styles */
-.navigation-wrapper {
-height: 190px;
-background-color:#11122b;
-color:whitesmoke;
-/* flexbox container */
-display: flex;
-justify-content: space-around;
-align-items: center;
-padding: 60px 100px 60px 100px;
-/*padding:100px;*/
-/*padding-top: 60px;
-padding-bottom:60px;
-padding-left: 100px;
-padding-right: 100px; */
-
-}
-
-.navigation-wrapper > .left-column {
-    display: flex;
-    align-items: center;
-}
-
-.navigation-wrapper > .left-column > .icon {
-    margin-right: 15px;
-
-}
-
-.icon i {
-    font-size: 2em;
-    color: tomato;
-}
- 
-.navigation-wrapper > .center-column {
-    display:grid;
-    grid-template-columns: 1fr;
-    grid-gap: 42px;
-    width: 500px;
-}
-
-.navigation-wrapper > .center-column > .banner-image {
-    display:flex;
-    justify-content: center;
-}
-
-
-.navigation-wrapper > .center-column >.banner-image img  {
-    width: 216px; 
-    height: 100%;
-}
-
-
-
-
-
-.navigation-wrapper > .left-column > .contact-hours-wrapper {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap: 10px;
-    color:tomato;
-    
-}
-
-.navigation-wrapper > .contact-hours-wrapper > .hours {
-    font-family: fantasy;
-}
-
- .navigation-wrapper > .right-column > .address-wrapper{
-    color:tomato;
-    font-family: fantasy;
-}
-
- .links-wrapper > .nav-link a {
-    font-family: fantasy;
-    color:white;
-}
-
-.hours {
-    color:red;
-}
-
-.links-wrapper {
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
+javascript wINDOWS power shell notes and commands:
 
 
 
@@ -192,6 +36,7 @@ Steps to add code and other shit to my git account
 NOTE: these steps are only used after repository and sign in is completed.
 boiiii
 
+git innit 
 file ls 
 cd <file name>
 git status
@@ -245,6 +90,4 @@ d-r---         4/26/2021   5:51 PM                Videos
 
 
 PS C:\users\rafap> cdOneDrive (the command code here is used to view the inside of a file)
-
-
 
