@@ -40,6 +40,10 @@ padding-right: 100px; */
 
 
 
+@media (max-width:615px) {
+    column: grid wrapper;
+    this is just a test boyo
+}
 
 
 
