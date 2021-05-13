@@ -186,3 +186,17 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/JacksonLebaron/Notes-For-Programming.git
    9a53aae..a53ff36  main -> main
 PS C:\Users\rafap\OneDrive\Escritorio\Notes> 
+
+
+Steps to add code and other shit to my git account
+NOTE: these steps are only used after repository and sign in is completed.
+boiiii
+
+file ls 
+cd <file name>
+git status
+git add . 
+git commit -m "<name of code file>"
+git push 
+
+
