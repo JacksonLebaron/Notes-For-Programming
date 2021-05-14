@@ -91,3 +91,111 @@ d-r---         4/26/2021   5:51 PM                Videos
 
 PS C:\users\rafap> cdOneDrive (the command code here is used to view the inside of a file)
 
+
+
+Notes javascript:
+
+Some of the most powerful applications on Earth are built using javascript
+for example, gmail, FAcebook, and microsoft.
+
+javascript is very good at automating actions. 
+
+Note: check out codepen.
+
+
+JAVASCRPT example below>>>
+
+JS:
+
+var mi_novia = "hooola chico";
+
+console.log(mi_novia);
+
+​
+
+var jack_son = "aaiii bebe";
+
+console.log(jack_son)
+
+​
+
+var mi_novia = "qieres agarar un bebida";
+
+console.log(mi_novia)
+
+​
+
+var jack_son = "hay!! vamanos mi amor";
+
+console.log(jack_son)
+
+Console
+Clear 
+"hooola chico"
+"aaiii bebe"
+"qieres agarar un bebida"
+"hay!! vamanos mi amor"
+
+
+
+var name, city, age;
+name = 'jackson';
+city = 'Arizona';
+age = 18;
+console.log(age);
+console.log(name);
+console.log(city);
+
+
+var age = 15;
+console.log(age);
+
+
+let age = 12;
+console.log(age)
+
+
+let age = 15;
+console.log(age);
+
+// you can put anything you want here
+
+console.log('hi there'); //dont stay here boii
+
+/*
+anything
+you want
+there
+*/
+
+
+DIFFERENT TYPES OF COMMANDS:
+
+// Boolean
+var truthy = true;
+var notTruthy = false;
+console.log(truthy);
+
+
+// Null
+var nully = null;
+console.log(nully);
+
+// Undefined 
+var notdefined;
+console.log(notdefined);
+
+// Number
+var age = 18;
+console.log(age);
+
+// String
+var name = "Jack"
+var nameTwo = 'Jordan'
+console.log(name);
+console.log(nameTwo);
+
+// Symbol
+
+var mySym = Symbol('foo');
+console.log(mySym);
